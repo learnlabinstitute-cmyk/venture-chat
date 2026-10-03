@@ -1,0 +1,6 @@
+{
+  "name": "Venture Infotech AI Support Desk",
+  "description": "Smart, empathetic, and context-aware customer support chatbot for Venture Infotech with plan management and comprehensive policy guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
